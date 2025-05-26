@@ -18,4 +18,4 @@ git clone https://github.com/fmb-amith/rock-paper-scissors.git
 cd rock-paper-scissors
 
 # Run the game
-python rock.py
+python stone.py
